@@ -1,0 +1,10 @@
+body {
+     background:#F5F5F5; font-family: 'Roboto', sans-serif;
+  }
+   .brandColor{color:#FFFFFF!important;}
+   .centradoLeyenda{text-align: center!important;margin-top: 75px;}
+   .centradoSmall{display: block; margin-left:auto; margin-right:auto; margin-top: 75px;}
+   .logoStilo{margin-left:10px; margin-top:5px;}
+  .navbarColor{background-color:#293846;}
+  .margenDerecho{ margin-right: 10px;  color:#FFFFFF!important;}
+  .buttonsample {color: #4285f4; background-color: rgba(66, 133, 244, 0.75)}

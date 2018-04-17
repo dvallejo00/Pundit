@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Padit:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Padit-1.war">
+      <element id="artifact" artifact-name="Padit:war exploded" />
+    </root>
+  </artifact>
+</component>
